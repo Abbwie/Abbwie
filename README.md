@@ -1,7 +1,7 @@
 Hello!! Its Abby ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ===============================================================================================================================
 
-Future Full stack Developer and System Designer (^-^)
+Future Full stack Developer and System Designer 
 -----------------------------------------------
 
 More focused on the backend development but can also do frontend. Still learning a lot especially when it comes to system architecture
